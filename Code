@@ -1,4 +1,3 @@
-
 import turtle
 
 main_window = turtle.Screen()
