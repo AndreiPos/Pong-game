@@ -6,11 +6,15 @@ This Pong game is a simple implementation written in Python using the Turtle gra
 
 1. Run the game by executing the Python script.
 2. Use the following controls to move the paddles:
-      * Player A (left paddle):
+   * Player A (left paddle):
+ 
           I. Move Up: Press the "w" key 
+          
           II. Move Down: Press the "s" key
-      * Player B (right paddle):
+   * Player B (right paddle):
+   
           I. Move Up: Press the Up arrow key 
+          
           II. Move Down: Press the Down arrow key
 3. The objective of the game is to prevent the ball from hitting your side of the screen and score points by making the ball pass your opponent's paddle.
 4. The game continues until one player reaches the winning score (not implemented in this version).
